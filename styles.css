@@ -302,8 +302,8 @@ h2 {
 
 .music-btn {
     background: var(--primary-color);
-    color: white;
-    border: none;
+    color: B771E5;
+    border: 2px solid FCC6FF;
     padding: 10px 20px;
     border-radius: 20px;
     cursor: pointer;
