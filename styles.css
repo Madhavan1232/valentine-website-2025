@@ -4,7 +4,7 @@
     --background-color-1: #A9B5DF;
     --background-color-2: #7886C7;
     --button-color: #3674B5;
-    --button-hover: #578FCA;
+    --button-hover: #E49BFF;
     --text-color: #FCC6FF;
 
     /* Animations */
@@ -100,7 +100,7 @@ body {
 }
 
 .secret-answer .cute-btn {
-    font-size: 20px;
+    font-size: 0.9rem;
     padding: 5px 10px;
 }
 
